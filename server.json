@@ -23,6 +23,14 @@
       "price": "25.90",
       "available": true,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+    },
+    {
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png",
+      "name": "Torta Capixaba",
+      "price": "26.70",
+      "description": "A melhor torta do litoral brasileiro",
+      "available": false,
+      "id": 4
     }
   ]
 }
